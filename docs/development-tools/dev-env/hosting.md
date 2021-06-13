@@ -26,3 +26,9 @@ Heroku lets you deploy, run and manage applications written in Ruby, Node.js, Ja
 
 [Checkout Heroku](https://devcenter.heroku.com/articles/how-heroku-works#deploying-applications)
 
+### Surge.sh
+
+Surge lets you deploy effortlessly your frontend's dist to a CDN, right from a single command-line. Choose a subdomain or attach your own custom domain.
+
+
+[Checkout Surge](https://surge.sh)
